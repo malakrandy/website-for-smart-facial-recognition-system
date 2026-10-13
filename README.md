@@ -8,9 +8,7 @@ A production-ready Next.js security monitoring dashboard built as a graduation p
 
 ## Tech Stack
 
-- **Framework:** Next.js 14 (App Router)
-- **Language:** TypeScript
-- **Styling:** Tailwind CSS
+
+
 - **Backend / Auth:** Supabase
-- **Icons:** Lucide React
 - **Deployment:** Vercel
